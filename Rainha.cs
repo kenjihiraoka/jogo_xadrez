@@ -7,7 +7,7 @@ namespace xadrez
         }
 
         public override string ToString() {
-            return "r";
+            return "D";
         }
 
         public override bool[,] movimentacao() {
